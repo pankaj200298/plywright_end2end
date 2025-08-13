@@ -29,14 +29,12 @@ plywright_end2end/
 ### 1️⃣ Clone the Repository
 git clone https://github.com/pankaj200298/plywright_end2end.git
 cd plywright_end2end
-2️⃣ Create Virtual Environment
-bash
-Copy
-Edit
+
+###2️⃣ Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
-3️⃣ Install Dependencies
+###3️⃣ Install Dependencies
 bash
 Copy
 Edit
@@ -62,6 +60,6 @@ Add assertions after each significant step
 
 Store sensitive data in .env files
 
-##📌 Author
+#📌 Author
 **Pankaj Chanekar
 **pankaj.chanekar98@gmail.com
