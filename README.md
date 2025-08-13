@@ -70,6 +70,6 @@ Add assertions after each significant step
 
 Store sensitive data in .env files
 
-📌 Author
-Pankaj Chanekar
-pankaj.chanekar98@gmail.com
+##📌 Author
+**Pankaj Chanekar
+**pankaj.chanekar98@gmail.com
