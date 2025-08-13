@@ -27,7 +27,6 @@ plywright_end2end/
 ## 🛠 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/pankaj200298/plywright_end2end.git
 cd plywright_end2end
 2️⃣ Create Virtual Environment
@@ -43,22 +42,15 @@ Copy
 Edit
 pip install -r requirements.txt
 playwright install
+
 🧪 Running Tests
 Run all tests
-bash
-Copy
-Edit
 pytest -v
 Run a specific test file
-bash
-Copy
-Edit
 pytest tests/test_registration.py -v
 Run with HTML report
-bash
-Copy
-Edit
 pytest --html=reports/report.html --self-contained-html
+
 💡 Best Practices
 Keep locators inside POM classes, never in tests
 
